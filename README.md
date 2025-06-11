@@ -43,7 +43,10 @@ Esta API permite gestionar autos mediante operaciones CRUD (Crear, Leer, Actuali
   ![Token JWT](images/OBTENER_TOKEN.png)
 
 - Acceso a `/api/cars/` con token válido:  
-  ![Acceso autorizado](images/API_CARS.png)
+  ![Acceso autorizado](images/TRAER_AUTOS.png)
+
+- OBTENER REFRESH TOKEN
+(images\REFRESH-TOKEN.png)
 
 
 
