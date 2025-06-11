@@ -48,6 +48,14 @@ Esta API permite gestionar autos mediante operaciones CRUD (Crear, Leer, Actuali
 - OBTENER REFRESH TOKEN
 ![REFRESHTOKEN](images/REFRESH-TOKEN.png)
 
+- Actualizar datos de autos 
+![UPDATE](images/ACTUALIZAR_DATOS.png)
+
+
+- Eliminar auto 
+![DELETE](images/DELETE_CARRO.png)
+
+
 
 
 
