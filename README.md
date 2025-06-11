@@ -46,7 +46,7 @@ Esta API permite gestionar autos mediante operaciones CRUD (Crear, Leer, Actuali
   ![Acceso autorizado](images/TRAER_AUTOS.png)
 
 - OBTENER REFRESH TOKEN
-(images\REFRESH-TOKEN.png)
+(images/REFRESH-TOKEN.png)
 
 
 
